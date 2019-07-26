@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Mac DS stuff
+*.DS_Store
+
+#Logs
+logs/*
+
+# Result csvs
+*.csv
